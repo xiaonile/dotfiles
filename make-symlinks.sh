@@ -13,7 +13,7 @@ dir=~/Documents/dotfiles
 olddir=~/Documents/dotfiles/Archive
 
 # list of files/folders to symlink in homedir
-files="zshrc"
+files="zshrc dir_colors"
 
 ##########
 
